@@ -1,0 +1,14 @@
+#editor {
+    height: 100vh;
+    background-color: #ececec;
+}
+#output {
+    height: 100vh;
+    background-color: #ececec;
+}
+
+#input {
+    height: 100%;
+    width: 100%;
+    padding: 5px;
+}
